@@ -1,0 +1,163 @@
+{
+  "empleados": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "cargo": "Administrador",
+      "edad": 30,
+      "email": "juan.perez@example.com",
+      "telefono": "123456789",
+      "CC": "1234567890",
+      "estado": "activo",
+      "password": "e10adc3949ba59abbe56e057f20f883e"
+    },
+    {
+      "id": "2",
+      "nombre": "Laura Gómez",
+      "cargo": "Empleado",
+      "edad": 28,
+      "email": "laura.gomez@example.com",
+      "telefono": "987654321",
+      "CC": "9876543210",
+      "estado": "activo",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    }
+  ],
+  "clientes": [
+    {
+      "cliente_id": 1,
+      "nombre": "Carlos Rodríguez",
+      "direccion": "Calle Tercera 789",
+      "telefono": "555-7890",
+      "email": "carlos.rodriguez@correo.com",
+      "contraseña": "654",
+      "id": "2c68"
+    },
+    {
+      "cliente_id": 2,
+      "nombre": "Ana Fernández",
+      "direccion": "Avenida Cuarta 101",
+      "telefono": "555-1011",
+      "email": "ana.fernandez@correo.com",
+      "contraseña": "456",
+      "id": "0bbe"
+    },
+    {
+      "cliente_id": 3,
+      "nombre": "Ana",
+      "direccion": "Avenida Cuarta 101",
+      "telefono": "555-1011",
+      "email": "ana.fernandez@correo.com",
+      "contraseña": "456",
+      "id": "7b27"
+    },
+    {
+      "id": "e57d",
+      "nombre": "juan ",
+      "email": "juan@gmail.com",
+      "contraseña": "987654",
+      "direccion": "calle 13",
+      "telefono": "3125400288"
+    }
+  ],
+  "productos": [
+    {
+      "id": "a1bf",
+      "nombre": "asdasd",
+      "categoria": "asdasd",
+      "cantidad": 615615,
+      "proveedor": "asdasd",
+      "precio": 6156515,
+      "descripcion": "asdasd dasda",
+      "codigo": "asdasd1",
+      "ubicacion": "asdasd",
+      "fecha_ultima_actualizacion": "2024-09-20"
+    },
+    {
+      "id": "88ae",
+      "nombre": "asdasdas",
+      "categoria": "sdasdasd",
+      "cantidad": 541541,
+      "proveedor": "asdasd",
+      "precio": 857151,
+      "descripcion": "asdasdas",
+      "codigo": "adasda",
+      "ubicacion": "asdasda",
+      "fecha_ultima_actualizacion": "2024-09-19"
+    },
+    {
+      "id": "eb28",
+      "nombre": "asdasd",
+      "categoria": "dasda",
+      "cantidad": 5485,
+      "proveedor": "asdas",
+      "precio": 54165,
+      "descripcion": "asda",
+      "codigo": "asdas",
+      "ubicacion": "asdas",
+      "fecha_ultima_actualizacion": "2024-09-20"
+    },
+    {
+      "id": "9439",
+      "nombre": "asdad",
+      "categoria": "adasd",
+      "cantidad": 1596481,
+      "proveedor": "asdas",
+      "precio": 56119,
+      "descripcion": "asdasd",
+      "codigo": "asdasd",
+      "ubicacion": "asdas",
+      "fecha_ultima_actualizacion": "2024-09-20"
+    },
+    {
+      "id": "2ee8",
+      "nombre": "asdasd",
+      "categoria": "asdasd",
+      "cantidad": 1961965,
+      "proveedor": "asdasd",
+      "precio": 1023156156,
+      "descripcion": "asdasd",
+      "codigo": "asdasd",
+      "ubicacion": "asdasd",
+      "fecha_ultima_actualizacion": "2024-09-21"
+    },
+    {
+      "id": "95ae",
+      "nombre": "aaaaaaaa",
+      "categoria": "iolioli",
+      "cantidad": 4156416,
+      "proveedor": "ioliol",
+      "precio": 16456,
+      "descripcion": "ioliol",
+      "codigo": "ioliol",
+      "ubicacion": "iolioliol",
+      "fecha_ultima_actualizacion": "2024-09-20"
+    }
+  ],
+  "reportes-stock": [
+    {
+      "id": "1",
+      "nombre": "Repuesto A",
+      "categoria": "Categoría 1",
+      "cantidad": 10,
+      "ubicacion": "Ubicación A",
+      "proveedor": "Proveedor X",
+      "costo_unitario": 100,
+      "fecha_adquisicion": "2024-09-01",
+      "fecha_caducidad": "2025-09-01",
+      "estado": "Activo"
+    },
+    {
+      "id": "2",
+      "nombre": "Repuesto B",
+      "categoria": "Categoría 2",
+      "cantidad": 20,
+      "ubicacion": "Ubicación B",
+      "proveedor": "Proveedor Y",
+      "costo_unitario": 150,
+      "fecha_adquisicion": "2024-09-02",
+      "fecha_caducidad": "2025-09-02",
+      "estado": "Activo"
+    }
+  ]
+}
